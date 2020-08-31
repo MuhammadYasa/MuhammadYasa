@@ -9,5 +9,3 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/YasaMuhammad/) [Instagram](https://www.instagram.com/_m_yasa/) [LinkedIn](https://www.linkedin.com/in/muhammad-yasa-016a04189/)
 - 😄 Pronouns: Man
 - ⚡ Fun fact: I watch Anime
-
-<img src="https://github-readme-stats.vercel.app/api?username=nearhxh=&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
